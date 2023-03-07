@@ -9,7 +9,7 @@ AnalogIn apps1(PA_0);
 AnalogIn apps2(PF_4);
 AnalogOut saida(PA_5);     //APPS (via CAN)
 InterruptIn sensor1(PA_4, PullNone);     //Velocidade 1
-//InterruptIn sensor2(PA_5, PullNone);     //Velocidade 2
+//InterruptIn sensor2(PA_5, PullNone);   //Velocidade 2
 
 //Declaração de Variáveis   
 //BSE
